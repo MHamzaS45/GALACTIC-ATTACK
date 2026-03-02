@@ -14,7 +14,7 @@ A 2D top-down shooter game built with **Unity**, featuring flexible player movem
 
 Galactic Attack is a Unity 2D game where the player fights waves of enemies across levels. It supports multiple movement and aiming styles (including an asteroids-like mode), configurable shooting, and win conditions based on defeating a set number of enemies. Score and high score are tracked per session.
 
-You play as an agent of the UGA (United Galactic Alliance) that have been tasked to eliminate the 'aggressor' Chitouin enemy influence that has invaded the planet. Your mission is to destroy all the Chitouin enemy ships that can phase through the environment and destroy you. You will possess only 3 lives for each game so be on guard when facing the hordes of enemies that will scramble to terminate you.
+You play as an agent of the UGA (United Galactic Alliance) that have been tasked to eliminate the 'aggressor' Chitouin enemy influence that has invaded the planet. Your mission is to destroy all the Chitouin enemy ships that can phase through the environment and destroy you. You will possess only 3 lives for each game so be on guard when facing the hordes of enemies that will be racing to terminate you.
 
 ---
 
